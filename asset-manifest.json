@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lesson-14-useMemo-memo-useCallback-/static/css/main.145dc572.css",
+    "main.js": "/lesson-14-useMemo-memo-useCallback-/static/js/main.8526ed7f.js",
+    "static/media/samary-backg.jpg": "/lesson-14-useMemo-memo-useCallback-/static/media/samary-backg.058e3a5749d88597754f.jpg",
+    "static/media/BasketIcon.svg": "/lesson-14-useMemo-memo-useCallback-/static/media/BasketIcon.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/lesson-14-useMemo-memo-useCallback-/index.html",
+    "static/media/plus-icon.svg.svg": "/lesson-14-useMemo-memo-useCallback-/static/media/plus-icon.svg.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "main.145dc572.css.map": "/lesson-14-useMemo-memo-useCallback-/static/css/main.145dc572.css.map",
+    "main.8526ed7f.js.map": "/lesson-14-useMemo-memo-useCallback-/static/js/main.8526ed7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145dc572.css",
+    "static/js/main.8526ed7f.js"
+  ]
+}
